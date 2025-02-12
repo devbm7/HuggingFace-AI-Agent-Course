@@ -1,5 +1,7 @@
 # Introduction to Agents
 
+---
+
 Here we will  build a solid foundation in the fundamentals of AI agents, including things like:
 
 * **Understanding Agents**
