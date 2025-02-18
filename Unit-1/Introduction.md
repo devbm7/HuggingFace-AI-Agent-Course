@@ -18,3 +18,5 @@ Here we will  build a solid foundation in the fundamentals of AI agents, includi
   * *Think -> Act -> Observe*
 
 We'll make a first agent 'alfred', where we explore some of these concepts. And take the quiz to check our knowledge.
+
+Course HuggingFace [Link](https://huggingface.co/learn/agents-course/unit0/introduction "HuggingFace Link").
